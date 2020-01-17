@@ -1,4 +1,4 @@
-# Cyber-Shopping
+# Cyber-Shopping - Jave EE
 This was a really fun program I had made for a midterm exam in my CST 4713 - Dynamic Web DevelopmentL Servlet and JSP course. 
 
 The emphasis of this program was to have us combine all the knowledge we have learned thus far into one program.
